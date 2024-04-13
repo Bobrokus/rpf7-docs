@@ -3,7 +3,14 @@
 ### [What's an RPF archive? 🤔](https://gtamods.com/wiki/RPF_archive)
 
 ## Why did I create this?
-I'm working on my FiveM Mod Manager so I need to figure out how to read RPF files. GTA5 uses RPF7. After getting through multiple rabbit holes, I deduced there is little to none documentation about RPF7. Fortunately, I found out Codewalker has [`RpfFile` class](https://github.com/dexyfex/CodeWalker/blob/f9a3559263f6b87a9ae53b2035e62294ac576f46/CodeWalker.Core/GameFiles/RpfFile.cs#L134) (which was very well documented, thanks). This helped me a lot and it's what I started working off of. I want to dig through the hard part, so other modders/devs don't have to. My goal is to make the documentation as accessible and helpful as possible, so the modding community grows.
+I'm working on my FiveM Mod Manager so I need to figure out how to read RPF files. GTA5 uses RPF7.
+After getting through multiple rabbit holes, I deduced there is little to none documentation about RPF7.
+
+Fortunately, I found out Codewalker has [`RpfFile` class](https://github.com/dexyfex/CodeWalker/blob/f9a3559263f6b87a9ae53b2035e62294ac576f46/CodeWalker.Core/GameFiles/RpfFile.cs#L134) (which was very well documented, thanks).
+This helped me a lot and it's what I started working off of.
+
+I want to dig through the hard part, so other modders/devs don't have to.
+My goal is to make the documentation as accessible and helpful as possible!
 
 ### Contribution is highly appreciated! 🙌
 
