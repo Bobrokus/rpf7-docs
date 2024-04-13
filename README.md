@@ -58,6 +58,6 @@
 | Offset (in 512B units) | u24  | 3B   |
 | Size                   | u32  | 4B   |
 
-If the file is compressed (only tested with .txt files):
+If file is compressed:
 - **Flags**: size of the compressed file
 - **Size**: size of the original file
