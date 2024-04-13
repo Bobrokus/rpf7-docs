@@ -12,7 +12,6 @@
 -  **i8 - i64**: Signed integer
 -  **string**: Array of `char`
 
----
 ## Header
 
 | label           | type         | size |
