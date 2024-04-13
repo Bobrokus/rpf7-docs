@@ -14,6 +14,11 @@ My goal is to make the documentation as accessible and helpful as possible!
 
 ### Contribution is highly appreciated! 🙌
 
+## NOTE
+This project is **WIP** and most of the stuff is **subject to change**.
+
+Feel free to create an issue if you find something. Anything helps! 🤗
+
 ## Credits ⭐
 
 - dexyfex for [Codewalker](https://github.com/dexyfex/CodeWalker) - RPF decoder source code 😉
