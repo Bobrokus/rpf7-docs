@@ -14,7 +14,7 @@
 | Names Data Size | u32          | 4B   |
 | Encryption Type | u32          | 4B   |
 
-`RPF Version` should be "RPF7" (0x52504637)
+**RPF Version** should be "RPF7" (0x52504637)
 
 ### Encryption Type
 
