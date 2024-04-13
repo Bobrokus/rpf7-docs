@@ -5,6 +5,14 @@
 - dexyfex for [Codewalker](https://github.com/dexyfex/CodeWalker) (mainly its source code 😉)
 - OpenIV Team for [OpenIV](https://openiv.com/)
 ---
+## Legend
+
+- ❔Uncomfirmed
+-  **u8 - u64**: Unsigned integer
+-  **i8 - i64**: Signed integer
+-  **string**: Array of `char`
+
+---
 ## Header
 
 | label           | type         | size |
