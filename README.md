@@ -1,4 +1,4 @@
-# RPF7 Archive Documentation from my research 🔬
+# RPF7 Archive Documentation from my research 🔬 (WIP)
 
 ### [What's an RPF archive? 🤔](https://gtamods.com/wiki/RPF_archive)
 
@@ -64,3 +64,5 @@ I'm working on my FiveM Mod Manager so I need to figure out how to read RPF file
 If file is compressed:
 - **Flags**: size of the compressed file
 - **Size**: size of the original file
+
+*...to be continued*
