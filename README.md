@@ -3,8 +3,9 @@
 
 ## Credits ⭐
 
-- dexyfex for [Codewalker](https://github.com/dexyfex/CodeWalker) (mainly its source code 😉)
-- OpenIV Team for [OpenIV](https://openiv.com/)
+- dexyfex for [Codewalker](https://github.com/dexyfex/CodeWalker) - RPF decoder source code 😉
+- OpenIV Team for [OpenIV](https://openiv.com/) - Helped me while creating and modifying RPFs
+- WerWolv for [ImHex](https://github.com/WerWolv/ImHex) - Helped me as an amazing tool for reverse engineering
 ---
 ## Legend
 
