@@ -1,15 +1,15 @@
-# RPF7 Archive Documentation from my research 🚀
-[What's an RPF archive?](https://gtamods.com/wiki/RPF_archive)
+# RPF7 Archive Documentation from my research 🔬
+[What's an RPF archive? 🤔](https://gtamods.com/wiki/RPF_archive)
 
-### Contribution is highly appreciated!
+### Contribution is highly appreciated! 🙌
 
 ## Credits ⭐
 
 - dexyfex for [Codewalker](https://github.com/dexyfex/CodeWalker) - RPF decoder source code 😉
-- OpenIV Team for [OpenIV](https://openiv.com/) - Helped me while creating and modifying RPFs
-- WerWolv for [ImHex](https://github.com/WerWolv/ImHex) - Helped me as an amazing tool for reverse engineering
+- OpenIV Team for [OpenIV](https://openiv.com/) - Helped me while creating and modifying RPFs 🔧
+- WerWolv for [ImHex](https://github.com/WerWolv/ImHex) - Helped me as an amazing tool for reverse engineering 🔎
 ---
-## Legend
+## Legend ❓
 
 - ❔Uncomfirmed
 -  **u8 - u64**: Unsigned integer
@@ -35,8 +35,6 @@
 | Open | 0x4E45504F | 1313165391 | "OPEN" |
 | AES  | 0x0FFFFFF9 | 268435449  |        |
 | NG   | 0x0FEFFFFF | 267386879  |        |
-
----
 
 ## Entries Data
 
