@@ -1,6 +1,8 @@
 # RPF7 Archive Documentation from my research 🚀
 [What's an RPF archive?](https://gtamods.com/wiki/RPF_archive)
 
+### Contribution is highly appreciated!
+
 ## Credits ⭐
 
 - dexyfex for [Codewalker](https://github.com/dexyfex/CodeWalker) - RPF decoder source code 😉
