@@ -61,6 +61,7 @@ Feel free to create an issue if you find something. Anything helps! 🤗
 | ----------------- | ---- | ---- |
 | Name Offset       | u16  | 2B   |
 | Flags❔            | u24❔ | 3B❔  |
+| Offset (Always 0x7FFFFF) | u24 | 3B |
 | First Entry Index | u32  | 4B   |
 | Entry Count       | u32  | 4B   |
 
