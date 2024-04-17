@@ -60,7 +60,7 @@ Feel free to create an issue if you find something. Anything helps! 🤗
 | label             | type | size |
 | ----------------- | ---- | ---- |
 | Name Offset       | u16  | 2B   |
-| Flags❔            | u32❔ | 4B❔  |
+| Flags❔            | u24❔ | 3B❔  |
 | First Entry Index | u32  | 4B   |
 | Entry Count       | u32  | 4B   |
 
